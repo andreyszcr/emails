@@ -1,0 +1,22 @@
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\bin\Debug\CapaNegocios.xml
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.vbprojAssemblyReference.cache
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.cache
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.xml
+D:\I Cuatrimestre 2020\Programación II\Ejercicios\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaNegocios.xml
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\andre\Documents\CapaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.vbprojAssemblyReference.cache
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.cache
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.vbproj.CopyComplete
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.xml
+C:\Users\andre\Documents\CapaNegocios\obj\Debug\CapaNegocios.pdb
